@@ -2,7 +2,7 @@ import 'package:injectable/injectable.dart';
 
 @singleton
 class AppConfig {
-  static const _baseUrl = 'https://rn-food-delivery.herokuapp.com/api';
+  static const _baseUrl = ''; //add api
   String get baseUrl => _baseUrl;
   AppConfig();
 }

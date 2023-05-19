@@ -1,0 +1,1 @@
+ /Users/user/personProject/test_food_project/.dart_tool/flutter_gen/gen_l10n/localizations_en.dart /Users/user/personProject/test_food_project/.dart_tool/flutter_gen/gen_l10n/localizations.dart:  /Users/user/personProject/test_food_project/l10n.yaml /Users/user/personProject/test_food_project/lib/infrastructure/l10n/messages_en.arb
